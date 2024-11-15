@@ -225,5 +225,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-gem "jekyll", "4.3.4"
