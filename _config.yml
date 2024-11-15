@@ -226,4 +226,4 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-gem "jekyll", "3.9.0"
+gem "jekyll", "4.3.4"

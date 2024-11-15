@@ -13,4 +13,4 @@ end
 
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
-gem "jekyll", "3.9.0"
+gem "jekyll", "4.3.4"
