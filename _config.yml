@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/azathoth-nyarlathotep.github.io"
 
 backgroud_animation: true
 
