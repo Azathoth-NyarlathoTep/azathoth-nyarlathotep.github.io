@@ -4,6 +4,7 @@ date: 2024-11-14 20:40:00 +0800
 categories: [Notebook, cs61b-Notebook]
 tags: [notebook]     
 description: 用于记载学习cs61b过程中的笔记
+pin: true
 ---
 
 ## git命令一览
