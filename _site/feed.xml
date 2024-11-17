@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>M o o n.</title>
   <subtitle>A personal blog for Moon.</subtitle>
-  <updated>2024-11-15T15:14:00+08:00</updated>
+  <updated>2024-11-17T13:53:45+08:00</updated>
   <author>
     <name>Yongze Li</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,37 @@
 
   
   <entry>
+    <title>采薇</title>
+    <link href="http://localhost:4000/posts/%E8%AF%97%E7%BB%8F-%E5%B0%8F%E9%9B%85-%E9%87%87%E8%96%87/" rel="alternate" type="text/html" title="采薇" />
+    <published>2024-11-16T16:20:00+08:00</published>
+  
+    <updated>2024-11-17T13:50:02+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E8%AF%97%E7%BB%8F-%E5%B0%8F%E9%9B%85-%E9%87%87%E8%96%87/</id>
+    <content src="http://localhost:4000/posts/%E8%AF%97%E7%BB%8F-%E5%B0%8F%E9%9B%85-%E9%87%87%E8%96%87/" />
+    <author>
+      <name>Yongze Li</name>
+    </author>
+
+  
+    
+    <category term="诗经" />
+    
+    <category term="小雅" />
+    
+  
+
+  <summary>昔我往矣，杨柳依依；今我来思，雨雪霏霏</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Java Notebook</title>
     <link href="http://localhost:4000/posts/cs61b-Notebook/" rel="alternate" type="text/html" title="Java Notebook" />
     <published>2024-11-14T20:40:00+08:00</published>
   
-    <updated>2024-11-15T14:08:26+08:00</updated>
+    <updated>2024-11-17T13:50:02+08:00</updated>
   
     <id>http://localhost:4000/posts/cs61b-Notebook/</id>
     <content src="http://localhost:4000/posts/cs61b-Notebook/" />

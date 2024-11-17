@@ -8,18 +8,27 @@ layout: compress
 {%- endcomment -%}
 
 MathJax = {
+  loader: { load: ['[tex]/physics','ui/lazy',] },
   tex: {
-    {%- comment -%} start/end delimiter pairs for in-line math {%- endcomment -%}
     inlineMath: [
       ['$', '$'],
       ['\\(', '\\)']
     ],
-    {%- comment -%} start/end delimiter pairs for display math {%- endcomment -%}
     displayMath: [
       ['$$', '$$'],
       ['\\[', '\\]']
     ],
-    {%- comment -%} equation numbering {%- endcomment -%}
-    tags: 'ams'
+    packages: {'[+]': ['physics']},
+    tags: 'ams',
+    macros: {
+        'e': '\\mathrm{e}',
+        'RR': '\\mathbb{R}',
+        'ZZ': '\\mathbb{Z}',
+        'QQ': '\\mathbb{Q}',
+      },
   }
+  options: {
+    lazyMargin: '200px',
+  },
+  svg: { fontCache: 'global'},
 };
