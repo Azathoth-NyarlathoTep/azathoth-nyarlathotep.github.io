@@ -98,6 +98,8 @@ Object o3 = (Dog)o2;
 o3.bark();//在这里编译器会报错，因为静态Object类并没有bark方法，因而不能通过编译
 ```
 
+#### Comparable
+
 那么假设我们要完成一个max方法，它将返回一个数组中所有元素的最大值，但是如果参数为`Object`的话则无法直接进行比较，所以我们采用`Java`中自带的`Comparable`接口来完成这个操作
 
 ```
@@ -122,6 +124,38 @@ public static Comparable max(Comparable[] items){
 
 然后再在返回最大值的方法中进行调用，而`compareTo`方法是`Comparable`方法中有的，所以算是普适的，只要是继承这个接口的类都能作为参数传入这个方法
 
+#### Comparator
+
+java中还有一种接口为`Comparator`比较器，它内部方法为`compare()`，与`compareTo`方法差不多
+
+```
+import java.util.Comparator;
+
+public class Dog implements Comparable<Dog> {
+    ...
+    public int compareTo(Dog uddaDog) {
+        return this.size - uddaDog.size;
+    }
+
+    private static class NameComparator implements Comparator<Dog> {
+        public int compare(Dog a, Dog b) {
+            return a.name.compareTo(b.name);
+        }
+    }
+
+    public static Comparator<Dog> getNameComparator() {
+        return new NameComparator();
+    }
+}
+```
+
+上述是关于Dog的比较器的实现，我们发现我们把比较器和辅助方法都打上了`static`将其定义为静态，这是因为静态是和类名本身关联的，即不用实例化即可以调用内部类，如下：
+
+```
+Comparator<Dog> nc = Dog.getNameComparator();
+```
+
+总之，重写`CompareTo`和定义一个`Comparator`比较器都可以实现比较的效果，但是前者更偏向于默认顺序，即不具有多样性；但后者可以定义多个不同的比较器，很方便不同的查找顺序
 ## P6
 
 ### 6.1 Lists,Sets,ArraySet
@@ -436,3 +470,75 @@ $$cat = c·26^2 + a·26^1 + t·26^0 = 2074$$
 1.选取偶数作为`base`即模数:这样很不好，比如126作为`base`的话，在超过32个字符后的所有值都是$126^{32}$的倍数，化简后也就是整数上限$2^{31}-1$的倍数，会引起大量碰撞
 2.选取非素数奇数，涉及到其有多个因数，所有碰撞的可能性更高
 综上，我们选小素数31作为`base`。
+
+## P13 Heaps and Priority Queue
+
+前面已经介绍了很多数据结构，现在让我们把注意力更多的放在`最优秀`,`最大`,`最小`这样有特性的属性上，引出本章学习内容。
+
+我们把我们的数据结构放在二叉树的基础上，我们定义其为完全的且子节点全都小于父节点，这是`小根堆`也即`Min-heap`。
+
+而在java中也定义了这样的接口
+
+```java
+public interface MinPQ<Item> {
+/** Adds the item to the priority queue. */
+public void add(Item x);
+/** Returns the smallest item in the priority queue. */
+public Item getSmallest();
+/** Removes the smallest item from the priority queue. */
+public Item removeSmallest();
+/** Returns the size of the priority queue. */
+public int size();
+}
+```
+
+使用堆实现的优先队列，其中的方法描述如下
+
+add：将节点添加到堆的底部，让该节点上浮。$Θ(logN)$
+getSmallest：返回根节点。$Θ(1)$
+removeSmallest：将堆中最后一个节点替换到根节点上，该节点下沉。$Θ(logN)$
+
+这其中有关键的方法即`swim`方法，它使得节点可以在更新过程中上浮下沉
+
+```
+public void swim(int k) {
+    if (keys[parent(k)] ≻ keys[k]) {
+       swap(k, parent(k));
+       swim(parent(k));              
+    }
+}
+```
+
+关于二叉树的结构表示方法不赘述，如有练习再加以理解
+
+## P17.18 Graph Traversals and Representation
+
+我们知道有`DFS`和`BFS`两种遍历方法，但是如何表示一个图十分值得我们讨论
+
+### Adjacency Matrix（邻接矩阵）
+
+邻接矩阵是一个二维数组，一维表示s一维表示t，其中的每个值表示一个点到另一个点是否存在一个有向边
+
+那么，如果要遍历点v的所有邻接点需要多少的时间复杂度呢，答案是$Θ(V)$，这里的V表示所有的点总个数，这是因为用邻接矩阵存边的话会遍历所有的点，即遍历整个数组，即就算没有实际连接也会遍历一遍，即造成了V的复杂度。又因为一共有V个点，所以要遍历所有的关系需要$Θ(V^2)$的时间复杂度
+
+## Edge Sets （边集）
+
+把边的对应点如(0,1)这样存入集合中，这样可以依次遍历得到需要的边，但不常用只作为了解的思想
+
+### Adjacency Lists（邻接表）
+
+在这个过程中，我们要维护的是一个数组，其中每个元素都是一个列表s
+
+这是我们在实践中最常用的存图方法
+
+那么回到我们在邻接矩阵时提出的问题，打印时间的增长是怎么样的呢，是$O(V)$，注意不是$Θ(V)$，因为每次遍历只会遍历实际上存在的边而不会白费时间用于遍历不存在的边，如果列表很短，那对应时间也就很短。如果总而言之的算总时间的话，就会是严格的$Θ(V + E)$，因为我们共创建了V个迭代器，而总的遍历次数加起来是E。
+
+## P19 Shortest Paths
+
+在前面我们用单纯的DFS和BFS遍历了整个图，但是如果一个图很像一条链，那么对于DFS来说，会在栈上占据很大的空间，是$Θ(V)$的；而对于BFS来说，如果是所有的点都连在一个根上那种图极度稠密，则队列会被大量占用，也对空间非常不利
+
+而且BFS所找到的最短路径只是单纯的边总数最少，没有考虑过边权也加进去考虑的情况，并不符合严格意义上的最短路径。
+
+## P21
+
+> 在拓扑排序求最长或者最短路线的时候，需要注意的是源点即入度为0的点初始dis为0，不能一味的全赋值为无穷
