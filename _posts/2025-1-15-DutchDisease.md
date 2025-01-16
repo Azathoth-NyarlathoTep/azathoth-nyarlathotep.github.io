@@ -1,3 +1,11 @@
+---
+title: Dutch Disease
+date: 2025-1-15 17:20:00 +0800
+categories: [English, The Economist]
+tags: [English, The Economist]
+description: 关于荷兰用疾病名称代替脏话的语言学探究
+---
+
 ## Main Body
 $~~~~~$In most languages, if someone said you had cancer, it would be a **diagnosis**. In Dutch, it is more likely to be an **insult**. *Kankerlijer* ("cancer-sufferer") is one of a long list of Dutch **profanities** and **expletives** **derived** from diseases. An undesirable person might be told to "**typhus** off" (*optyfussen*) or "get **consumption**" (krijg de tering). If in (American) English you laugh your **ass** off, in Dutch you might "laugh yourself the **pleurisy**" (*lachen je de pleuris*). No one in England has been called a "**poxy** bitch" for centuries, but in the Netherlands you can still call someone a *pokkenteef*. A damned long way is a *klereneind* ("cholera-end"). And so on.
 
