@@ -39,14 +39,14 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 
 ### profanity
 > 1. behaviour that shows a lack of respect for God.
-> 2. swear words or religious words
+> 2. swear words or religious words used in a way that shows a lack of respect for God
 
 ### expletive(n.)
 > an expletive is a rude word or expression such as 'Damn!' which you say when you are angry, excited, or in pain.
 
 ### derive
 > 1. to get something from something or somebody
-> 2. to recognize and name the exact character of a disease or a problem, by examining it
+> 2. mean something is come from something
 
 **examples:**
 1. *Mr Yang is one of those happy people who derive pleasure from helping others.*
@@ -126,7 +126,23 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 **examples:** *He has a puritanical attitude towards sex.*
 
 ### strain
-> 1. 
+> 1. (n.) pressure on something or somebody because they have too much to do or manage
+> 2. phisical streches, pushes, or pulls
+> 3. an injury to your body or part of your body, such as your muscle
+> 4. a particular type of plant or animal, or a disease caused by bacteria
+> 5. the sound of music being played or sung
+> 6. (v.) **strain sth./sb.** to injure yourself or part of your body
+> 7. **strain sb. to do sth./strain to do sth.** to make an effort to do something
+> 8. to separate liquid food from solid food(过滤)
+
+**examples:**
+1. *Their marriage is undedr great strain.*
+2. *The rope broke under great strain.*
+3. *muscle strain*
+4. *This is one of the many strains of the disease.*
+5. *She could hear the strains of Mozart through the window.*
+6. *Could you strain the vegtables, please.*
+7. *I strained a muscle in my back playing squash.*
 
 ### virtue
 > 1. a particular good quality or habit
@@ -182,6 +198,11 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 > 2. a person who studies languages or linguistics.
 
 ### curse
+> 1. (n.) a rude or offensive word or phrase that some people use when they are very angry.
+> 2. a word or phrase that has a magic power to make something bad happen.
+> 3. something that causes harm or evil
+> 4. (v.) speak angrily
+> 5. to say magic words which are intended to bring bad luck to someone
 
 ### hypothesis
 > (n.) an idea or explanation of something that is based on a few known facts but that has not yet been proved to be true or correct
@@ -194,7 +215,11 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 > 3. a computer program or part of a computer program which can make copies of itself and is intended to prevent the computer from working normally.
 
 ### savage
-> 1. (adj.) 
+> 1. (adj.) aggressive and violent, causing great harm
+> 2. involving great strong criticism
+> 3. an offensive way to describe groups of people or customs that are considered to be simple and not highly developed
+> 4. (v.) to attack someone violently and badly
+> 5. (n.) a person whose way of life is at very early stage of development
 
 ## Added Words Explanation
 
@@ -223,4 +248,8 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 1. an infectious disease
 2. an infectious laugh
 
-### 
+### primitive
+> 1. (adj.) belonging to a very simple society whith no industry
+> 2. belonging to an early stage in the development of humans or animals
+> 3. very simple and old-fashioned, especially when something is also not convenient and comfortable(简陋)
+> 4. refer to artists or their works which is in a very simple style or are before the Renaissance
