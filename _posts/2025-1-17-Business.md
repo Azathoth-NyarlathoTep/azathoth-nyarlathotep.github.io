@@ -1,3 +1,11 @@
+---
+title: The world this week - Business
+date: 2025-1-22 18:00:00 +0800
+categories: [English, The Economist]
+tags: [English, The Economist]
+description: 本周商业情况概览
+---
+
 ## Main Body
 *In an **unprecedented** move the **Federal Reserve** said it would buy corporate **bonds**, including new issues and the riskiest **investment-grade debt**, action that it **shied away from** during the financial crisis a decade ago. The central bank is using a **subsidiary** of Black-Rock to manage the investments. It is also buying government debt (unlimited **quantitative easing**), **reviving** a **facility** that enables it to absorb securities backed by student, car and credit-card **loans**, and has **pledged** to help small businesses.*
 <hr style="width: 50px; border: 2px solid black; margin-left: 0;">
