@@ -155,7 +155,7 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 3. *She succeeded by virtue of/because of her tenacity rather than her talent.*
 
 ### destined
-> (adj.) having a future which has been decided or planned at an earlier tijme, especially by fate.
+> (adj.) having a future which has been decided or planned at an earlier time, especially by fate.
 > **destined for...** on the way to a place
 > **be destined for...**have a future which has been decided.
 
@@ -238,7 +238,7 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 
 **examples:**
 1. *There were some suspicious characters hanging around outside.*
-2. *Thet are deeply/highly suspicious of each other's motives.*
+2. *They are deeply/highly suspicious of each other's motives.*
 
 ### infectious
 > 1. an infectious disease can be passed easily from one person to another, especially through the air they breathe.
@@ -252,4 +252,4 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 > 1. (adj.) belonging to a very simple society whith no industry
 > 2. belonging to an early stage in the development of humans or animals
 > 3. very simple and old-fashioned, especially when something is also not convenient and comfortable(简陋)
-> 4. refer to artists or their works which is in a very simple style or are before the Renaissance
+> 4. (n.) refer to artists or their works which is in a very simple style or are before the Renaissance
