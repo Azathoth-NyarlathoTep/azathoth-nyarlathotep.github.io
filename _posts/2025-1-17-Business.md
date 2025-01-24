@@ -108,7 +108,7 @@ $\color{red}{Frozen}$
 ***quantitative:*** *connected with the amount or number of something rather than how good it is* ***Example:*** *quantitative analysis/research*
 
 ### revive
-> 1. (v.) to become, or to make somebody/something become, conscious or healthy and string again
+> 1. (v.) to become, or to make somebody/something become, conscious or healthy and strong again
 > 2. **revive something** to make something start being used or done again
 
 **examples:**
@@ -212,7 +212,7 @@ $\color{red}{Frozen}$
 ### estimate
 > 1. (n.) a judgement that you make without having the exact details or figure about the size, amount, cost of something
 > 2. a statement of how much a piece of work will probably cost
-> 3. (v.) to from an idea of the cost, size, value of something, but without calculating it exactly
+> 3. (v.) to form an idea of the cost, size, value of something, but without calculating it exactly
 
 **examples:**
 1. *I can give you a rough estimate of the amount of wood you will need.*
@@ -231,10 +231,33 @@ $\color{red}{Frozen}$
 3. *The boat is sinking!Star bailing quickly!*
 
 ### antitrust
+> (adj.) preventing companies or groups of companies from controlling prices unfairly(反垄断法)
 
 ### authority
+> 1. (n.) the power to give oeders to people
+> 2. **authority (to do something)** the power or right to do something
+> 3. official permission to do something
+> 4. the people or an organization who have the power to make decisions or who have a particular area of respnsibility in a country or region
+> 5. the power to influence people because they respect your knowledge or official position
+> 6. **authority (on something)** a person with special knowledge(权威)
+
+**examples:**
+1. *She now has authority over the people who used to be her bosses.*
+2. *Only the Board has the authority to approve the budget.*
+3. *It was done without the principal's authority.*
+4. *The health authorities are **investigating(调查)** the problem.*
+5. *He spoke with authority on the topic.*
+6. *She's an authority on criminal law.*
 
 ### investigate
+> 1. (v.) to carefully examine the facts of a situation, an event, a crime to find out the truth about it or how it happened
+> 2. **investigate sb. for sth.** to try to find out information about somebody's character
+> 3. to find out information and facts about a subject or problem by study or research
+
+**examples:**
+1. *The FBI has been called to investigate.*
+2. *This is not the first time he has been investigated by the policce for fraud.*
+3. *Scientists are investigating the effects of diet on fighting cancer.*
 
 ### rescue
 > 1. (v.) to save somebody/something from a dangerous or harmful situation
@@ -263,10 +286,23 @@ $\color{red}{Frozen}$
 6. *The team managed to  secure a place in the finals.*
 
 ### contract
+> 1. (n.) an official written agreement(合同)
+> 2. an agreement to kill somebody for money
+> 3. (v.) to become less or smaller; to make something become less or smaller
+> 4. **contract sth.** to get an illness
+> 5. **contract (sb.) to do sth.** to make a legal agreement with somebody for them to work for you or provide you with service
+> 6. **contract a marriage/an alliance (with sb.)** to formally agree to marry somoebody/form an alliance(结合，结盟) with somebody
+
+**examples:**
+1. *a contract of employment*
+2. *Glass contracts as it cools.*
+3. *to contract AIDS/a virus/a disease*
+4. *The player is contracted to play until August.*
+5. *She has contracted to work 20 hours a week.*
 
 ### cope
 > 1. (v.) **cope with sth.** to deal successfully with something difficult
-> 2. (n.) a long loose piece of clothing worn bt priests on special occasions(斗篷式长袍)
+> 2. (n.) a long loose piece of clothing worn by priests on special occasions(斗篷式长袍)
 
 **example:** *He wasn't able to cope with stresses and strains of the job.*
 
@@ -313,7 +349,7 @@ $\color{red}{Frozen}$
 > 1. (n.) a look at somebody for a very short time, when you do not see the person or thing completely
 > 2. a short experience of something that helps you to understand it
 > 3. (v) *glimpse sb./sth.* to see somebody for a moment but not clearly
-> 4. *glimpse sth.* to start to understand something
+> 4. **glimpse sth.** to start to understand something
 
 **examples:**
 1. *He caught a glimpse of her in the crowd.*
@@ -335,8 +371,6 @@ $\color{red}{Frozen}$
 1. *In his job, patience is an invaluable asset.*
 2. *the net asset value of the company*
 
-### 
-
 ## Added Words Explanation
 ### solemn
 > 1. (adj.) not happy or smiling
@@ -352,13 +386,13 @@ $\color{red}{Frozen}$
 > 2. to admit that something is true, although you may not like to agree with it
 > 3. (n.) **grant (to do sth.)** a sum of money that is given by the government or by another organization to be used for a particular purpose
 
-### droplet
-> a small drop of a liquid(液滴)
-
 **examples:**
 1. *My request was granted.*
 2. *She's a smart woman, I grant you, but she's no genius.*
 3. *He has been awarded a research grant.*
+
+### droplet
+> a small drop of a liquid(液滴)
 
 ### accuse
 > **accuse sb. (of sth.)** to say that somebody has done womething wrong or is guilty of something
@@ -400,7 +434,7 @@ $\color{red}{Frozen}$
 
 **examples:**
 1. *soaring costs/prices/temperatures*
-2. *The eocket soared up into the air.*
+2. *The rocket soared up into the air.*
 3. *soaring mountains*
 4. *soaring strings*
 
@@ -432,7 +466,7 @@ $\color{red}{Frozen}$
 
 ***facility:*** a special feature of a machine or service that makes it possible to do something extra(机制) ***Example:*** a facility of checking spelling
 
-***share:*** (n.) a part of something that has been divided between several people, which belongs to, is owed to or has to be done by a particular person ***Example:*** *The total bill comes to $80, so our share is $20.*
+***share:*** (n.) a part of something that has been divided between several people, which belongs to, is owed to or has to be done by a particular person ***Example:*** *The total bill comes to \$80, so our share is \$20.*
 
 ***share:*** (n.) 股份 ***Example:*** *She buys and sells stocks and shares.*
 
