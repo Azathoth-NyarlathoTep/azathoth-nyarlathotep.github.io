@@ -143,7 +143,7 @@ $\color{red}{Frozen}$
 4. *He loaned the museum his entire collection.*
 
 ### manic
-> (adj.) full of activity, excitement and anxiety; behaving in a busy, excited, anxious way
+> (adj.) full of activity, excitement and anxiety; behaving in a busy, excited, anxious way(躁狂的)
 
 ### swing
 
@@ -228,13 +228,13 @@ $\color{red}{Frozen}$
 **examples:**
 1. *Can anyone put up bail for you?*
 2. *He was bailed on a minor drugs charge.*
-3. *The boat is sinking!Star bailing quickly!*
+3. *The boat is sinking!Start bailing quickly!*
 
 ### antitrust
 > (adj.) preventing companies or groups of companies from controlling prices unfairly(反垄断法)
 
 ### authority
-> 1. (n.) the power to give oeders to people
+> 1. (n.) the power to give orders to people
 > 2. **authority (to do something)** the power or right to do something
 > 3. official permission to do something
 > 4. the people or an organization who have the power to make decisions or who have a particular area of respnsibility in a country or region
@@ -328,7 +328,7 @@ $\color{red}{Frozen}$
 > 5. to formally ask for something in court
 
 **examples:**
-1. *a petition against experimentss on animals*
+1. *a petition against experiments on animals*
 2. *Her hasband has already filed a petition for divorce.*
 3. *Local residents have successfully petitioned against the siting of a prison in their area.*
 4. *to petition for divorce*
@@ -348,7 +348,7 @@ $\color{red}{Frozen}$
 ### glimpse
 > 1. (n.) a look at somebody for a very short time, when you do not see the person or thing completely
 > 2. a short experience of something that helps you to understand it
-> 3. (v) *glimpse sb./sth.* to see somebody for a moment but not clearly
+> 3. (v) **glimpse sb./sth.** to see somebody for a moment but not clearly
 > 4. **glimpse sth.** to start to understand something
 
 **examples:**
@@ -358,7 +358,7 @@ $\color{red}{Frozen}$
 
 ### retail
 > 1. (adv.) by or to the public, usually through shops/stores
-> 2. (n.) the selling of goods to the public, usually through shops
+> 2. (n.) the selling of goods to the public, usually through shops(零售)
 > 3. (vt.) to sell goods to the public, usually through shops
 > 4. (vi.) to be sold at a particular price
 > 5. **retail something** to tell people about something, especially about a person's behaviour or private life
@@ -384,7 +384,7 @@ $\color{red}{Frozen}$
 ### grant
 > 1. (v.) to agree to give somebody what they ask for, especially formal or legal permission to do something
 > 2. to admit that something is true, although you may not like to agree with it
-> 3. (n.) **grant (to do sth.)** a sum of money that is given by the government or by another organization to be used for a particular purpose
+> 3. (n.) **grant (to do sth.)** a sum of money that is given by the government or by another organization to be used for a particular purpose(政府拨款)
 
 **examples:**
 1. *My request was granted.*
@@ -441,7 +441,7 @@ $\color{red}{Frozen}$
 ### notch
 > 1. (n.) a level on a scale, often marking quality or achievement
 > 2. a V-shape or a circle cut in an edge or a surface, sometimes used to keep a record od something
-> 3. (v.) **notch sth.** to achieve something such as a win or a high score
+> 3. (v.) **notch (up) sth.** to achieve something such as a win or a high score
 > 4. to make a small V-shapped cut 
 
 **examples:**

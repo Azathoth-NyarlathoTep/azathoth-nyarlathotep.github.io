@@ -81,11 +81,11 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 
 **examples:**
 1. *Is there always a conflict between science and religion?*
-2. *Christianity(基督教), Islam(伊斯兰教) and other world relogions.*
+2. *Christianity(基督教), Islam(伊斯兰教) and other world religions.*
 3. *For him, football is an absolute religion.*
 
 ### cognate
-> 1. (adj.) haveing the same origin as another word or language.
+> 1. (adj.) having the same origin as another word or language.
 > 2. (n.) a word that has the same origin as another.
 
 **examples:**
@@ -93,7 +93,7 @@ $~~~~$However, there is also what **linguists** call the **frequency** **hypothe
 2. *'Haus' and 'house' are cognates.*
 
 ### anodyne
-> intended to avoid causing offence or disagreement, especially by not expressing strong feelings or opinions.
+> intended to avoid causing offence or disagreement, especially by not expressing strong feelings or opinions(adj.温和的，n.止痛药)
 
 ### fuss
 > 1. (n.) unnecessary excitement, worry or activity.
