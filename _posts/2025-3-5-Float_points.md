@@ -3,7 +3,7 @@ title: Float Points
 date: 2025-3-5 17:30:00 +0800
 categories: [cs61c, Float Points]
 tags: [notebook]
-description: RISC-V的学习记录
+description: 介绍浮点数设计的原理
 pin: false
 ---
 
@@ -18,6 +18,7 @@ pin: false
 |1 bit|8 bits|23 bits|
 
 但是这个范围有可能还是不够用，那么可以上双精度浮点数`double`
+
 |63|62-52|51-0|
 |-|-|-|
 |S|Exponent|Significand|
@@ -32,6 +33,7 @@ $$
 > 现在还有一些特殊值，如**0、正负无穷等**，现在来介绍这些特殊值
 
 我们知道如果只是这样简单的设定，那么浮点数是不能涵盖很多数的，那么就会对这些特殊值有特殊的表示，总览大致如下
+
 |Exponent|Significand|Object|
 |-|-|-|
 |0|0|0|
