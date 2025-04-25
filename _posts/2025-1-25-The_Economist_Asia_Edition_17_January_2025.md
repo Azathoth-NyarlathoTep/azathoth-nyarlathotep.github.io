@@ -311,8 +311,6 @@ description: 在2025.1.17出版的《经济学人》中所学词句
 3. *grants to encourage enterprise in the region*
 4. *a man of enterprise*
 
-#### 
-
 ## Added Words Explanation
 ### utter
 > 1. (adj.) used to emphasize how complete something is
